@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dual Dice Roller</string>
+    <string name="button_roll">ROLL</string>
+    <string name="after_dice_rolled">Dice Rolled!</string>
+    <string name="dice_image">dice image</string>
+    <string name="dice_image2">dice image 2</string>
+    <string name="roll_both">Roll Both</string>
+</resources>

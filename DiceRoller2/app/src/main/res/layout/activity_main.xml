@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal|center_vertical"
+    android:layout_margin="20dp"
+    android:gravity="clip_horizontal|center_horizontal"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/result1"
+                style="@style/resultText"
+                android:text="6" />
+
+            <ImageView
+                android:id="@+id/dice_image"
+                android:layout_width="130sp"
+                android:layout_height="130sp"
+                android:layout_gravity="center_horizontal"
+                android:contentDescription="@string/dice_image"
+                android:src="@drawable/six" />
+
+            <Button
+                android:id="@+id/roll_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/button_roll"
+                android:textSize="35sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/result2"
+                style="@style/resultText"
+                android:text="6" />
+
+            <ImageView
+                android:id="@+id/dice_image2"
+                android:layout_width="130sp"
+                android:layout_height="130sp"
+                android:layout_gravity="center_horizontal"
+                android:contentDescription="@string/dice_image2"
+                android:src="@drawable/six" />
+
+            <Button
+                android:id="@+id/roll_button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/button_roll"
+                android:textSize="35sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/CombineButton"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/roll_both"
+        android:textSize="30sp" />
+
+</LinearLayout>
+
