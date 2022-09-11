@@ -22,7 +22,7 @@ Grocery app using kotlin
 
 | **File Type** | **Files Name** |
 | ----------- | ----------- |
-| **Layout Files** | - activity_main.xml |
+| **Layout Files** | - `activity_main.xml` |
 | | - groceryadapter.xml |
 | | - grocerydialog.xml |
 | **Adapter File** | GroceryAdapter.kt |
