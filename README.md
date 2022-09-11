@@ -16,5 +16,5 @@ Grocery app using kotlin
 - Display the list in a recycler view
 
 ### **Screenshots -**
-![Main Screen](https://github.com/smartinternz02/SPSGP-76766-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Grocery_App/OUTPUT/Demo/Main%20Screen.jpg)
+![Main Screen](https://github.com/smartinternz02/SPSGP-76766-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Grocery_App/OUTPUT/Demo/Main%20Screen.jpg){:height="36px" width="36px"}.
 ![Screenshot_2021-06-19-19-59-59-01_1b0b5f8b1f4f0b1d1d8d0f8f7f6f1f1f](https://user-images.githubusercontent.com/85420208/122644001-0bf3e080-d13a-11eb-9b9a-9b9b9b9b9b9b.jpg)
