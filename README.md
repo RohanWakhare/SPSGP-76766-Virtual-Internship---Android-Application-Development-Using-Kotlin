@@ -36,5 +36,5 @@ Grocery app using kotlin
 
 
 ## Downloads
-![Grocery APK](https://github.com/smartinternz02/SPSGP-76766-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Grocery_App/OUTPUT/APK/Grocery%20App.apk)
-![Project ZIP]()
+[Grocery APK](https://drive.google.com/file/d/1X3yKptiFAkyjj-WhTMxaGuzC45ALVDA6/view?usp=sharing)
+[Project ZIP](https://drive.google.com/file/d/1gXzRoHrA1wAtu7on9_oqtFIPoPi2yN89/view?usp=sharing)
