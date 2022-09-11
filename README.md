@@ -36,5 +36,6 @@ Grocery app using kotlin
 
 
 ## Downloads
-[Grocery APK](https://drive.google.com/file/d/1X3yKptiFAkyjj-WhTMxaGuzC45ALVDA6/view?usp=sharing)
-[Project ZIP](https://drive.google.com/file/d/1gXzRoHrA1wAtu7on9_oqtFIPoPi2yN89/view?usp=sharing)
+- [Grocery APK](https://drive.google.com/file/d/1X3yKptiFAkyjj-WhTMxaGuzC45ALVDA6/view?usp=sharing)
+
+- [Project ZIP](https://drive.google.com/file/d/1gXzRoHrA1wAtu7on9_oqtFIPoPi2yN89/view?usp=sharing)
